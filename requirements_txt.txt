@@ -1,0 +1,30 @@
+# Network Deployment GUI Requirements
+# Install with: pip install -r requirements.txt
+
+# GUI Framework
+customtkinter>=5.2.0
+tkinter-tooltip>=2.1.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Data Visualization
+matplotlib>=3.7.0
+
+# Network Automation
+netmiko>=4.2.0
+paramiko>=3.3.0
+
+# Data Processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+numpy>=1.24.0
+
+# Additional utilities
+cryptography>=41.0.0
+pyyaml>=6.0
+
+# Optional: For enhanced features
+# jinja2>=3.1.0
+# requests>=2.31.0
+# tqdm>=4.65.0
