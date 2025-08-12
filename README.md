@@ -1,4 +1,6 @@
 # Network Deployment Suite v3.0
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/f3072da9-9313-4ffb-af7e-3e8eb3f646e0" />
+
 ## Architecture & Technical Documentation
 
 ---
